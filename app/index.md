@@ -10,7 +10,11 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
 
-### [Jhon Lennon](writer/john_lennon.md) 
+### [Arctic Monkeys](/writer/arctic_monkeys.md) | arctic.monkeys@onlyrics.magazine
+
+[Fluorescent Adolescent](song/feb/fluorescent_adolescent.md)
+
+### [Jhon Lennon](writer/john_lennon.md)
 
 [Imagine](song/jan/vanilla-panna-cotta.md)
 
@@ -18,6 +22,8 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [We Are The Champions](song/jan/we_are_the_champions.md)
 
-### [The Killers](writer/the_killers) 
+[killer queen](song/feb/killer_queen.md)
+
+### [The Killers](writer/the_killers)
 
 [Mr. Brightside](song/jan/mr_brightside.md)
