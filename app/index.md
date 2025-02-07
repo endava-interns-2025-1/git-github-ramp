@@ -10,11 +10,9 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
 
-### [Arctic Monkeys](/writer/arctic_monkeys.md) | arctic.monkeys@onlyrics.magazine
+### [Arctic Monkeys](/writer/arctic_monkeys.md)
 
 [Fluorescent Adolescent](song/feb/fluorescent_adolescent.md)
-
-### [Jhon Lennon](writer/john_lennon.md)
 
 [Imagine](song/jan/vanilla-panna-cotta.md)
 
